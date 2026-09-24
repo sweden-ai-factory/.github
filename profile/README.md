@@ -23,7 +23,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-
+[hackathons 26.03 - Hackathon at RISE, DKV 61](https://github.com/sweden-ai-factory/hackathons/releases/tag/26.03) - 2026-09-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/releases.md)
 
