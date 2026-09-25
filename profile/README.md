@@ -32,6 +32,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Sweden AI Factory connects AI development with Swedish cloud providers](https://swedenaifactory.se/news/2026/09/sweden-ai-factory-connects-ai-development-with-swedish-cloud-providers-2/) - 24 Sep 2026
+
 [The marvelous guide of supercomputing and AI](https://swedenaifactory.se/blog/2026/08/the-marvelous-guide-of-supercomputing-and-ai/) - 28 Aug 2026
 
 [Mimer AI Factory becomes Sweden AI Factory](https://swedenaifactory.se/news/2026/08/mimer-ai-factory-becomes-sweden-ai-factory/) - 21 Aug 2026
@@ -41,8 +43,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Mimer AI Factory at ISC 2026: Driving the conversation on AI Factories and HPC](https://swedenaifactory.se/blog/2026/07/mimer-at-isc-2026/) - 07 Jul 2026
 
 [Anomalib for industrial quality inspection](https://swedenaifactory.se/short-tutorials/2026/06/anomalib-for-industrial-quality-inspection/) - 30 Jun 2026
-
-[Exploring Innovation at WARA PS Data Collection Week: A Growing Interest](https://swedenaifactory.se/blog/2026/06/exploring-innovation-at-wara-ps-data-collection-week-a-growing-interest/) - 30 Jun 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
