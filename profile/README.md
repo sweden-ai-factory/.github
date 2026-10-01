@@ -32,6 +32,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Preparing vocational students for an AI-driven future](https://swedenaifactory.se/news/2026/09/preparing-vocational-students-for-an-ai-driven-future/) - 30 Sep 2026
+
 [Sweden AI Factory connects AI development with Swedish cloud providers](https://swedenaifactory.se/news/2026/09/sweden-ai-factory-connects-ai-development-with-swedish-cloud-providers-2/) - 24 Sep 2026
 
 [The marvelous guide of supercomputing and AI](https://swedenaifactory.se/blog/2026/08/the-marvelous-guide-of-supercomputing-and-ai/) - 28 Aug 2026
@@ -41,8 +43,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Putting privacy to the test with Syndata](https://swedenaifactory.se/client-stories/2026/08/putting-privacy-to-the-test/) - 11 Aug 2026
 
 [Mimer AI Factory at ISC 2026: Driving the conversation on AI Factories and HPC](https://swedenaifactory.se/blog/2026/07/mimer-at-isc-2026/) - 07 Jul 2026
-
-[Anomalib for industrial quality inspection](https://swedenaifactory.se/short-tutorials/2026/06/anomalib-for-industrial-quality-inspection/) - 30 Jun 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
