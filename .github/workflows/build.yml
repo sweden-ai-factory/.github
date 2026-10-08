@@ -10,7 +10,8 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: '0 0 * * *'  # Daily
+    - cron: '0 0 * * *'  # Daily incremental
+    - cron: '0 4 * * 0'  # Weekly full scan (Sundays)
 
 jobs:
   build:
@@ -32,7 +33,7 @@ jobs:
       env:
         GRAPHQL_TOKEN: ${{ secrets.SEAIF_RELEASES_TOKEN }}
       run: |-
-        if [ "${{ inputs.all }}" = "true" ]; then
+        if [ "${{ inputs.all }}" = "true" ] || [ "${{ github.event.schedule }}" = "0 4 * * 0" ]; then
           uv run --frozen build_readme.py --all
         else
           uv run --frozen build_readme.py
