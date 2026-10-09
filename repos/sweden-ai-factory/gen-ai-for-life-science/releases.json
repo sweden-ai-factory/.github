@@ -1,8 +1,16 @@
 {
   "description": "Workshop on Generative AI for Life Science",
   "owner": "sweden-ai-factory",
-  "releases": [],
+  "releases": [
+    {
+      "author": "ashwinvis",
+      "published_at": "2026-10-08T20:39:40Z",
+      "published_day": "2026-10-08",
+      "release": "26.10",
+      "url": "https://github.com/sweden-ai-factory/gen-ai-for-life-science/releases/tag/26.10"
+    }
+  ],
   "repo": "gen-ai-for-life-science",
-  "total_releases": 0,
+  "total_releases": 1,
   "url": "https://github.com/sweden-ai-factory/gen-ai-for-life-science"
 }

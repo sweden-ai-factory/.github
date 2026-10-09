@@ -23,9 +23,15 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[gen-ai-for-life-science 26.10](https://github.com/sweden-ai-factory/gen-ai-for-life-science/releases/tag/26.10) - 2026-10-08
+
+[handson-k8s-workshop 26.04](https://github.com/sweden-ai-factory/handson-k8s-workshop/releases/tag/26.04) - 2026-09-23
+
 [hackathons 26.03 - Hackathon at RISE, DKV 61](https://github.com/sweden-ai-factory/hackathons/releases/tag/26.03) - 2026-09-23
 
 [sweden-ai-factory.github.io 26.09 - First version of the Lesson Library](https://github.com/sweden-ai-factory/sweden-ai-factory.github.io/releases/tag/26.09) - 2026-09-23
+
+[roadshow 26.09 - At Gotland with Hite](https://github.com/sweden-ai-factory/roadshow/releases/tag/26.09) - 2026-09-23
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/releases.md)
 
@@ -34,6 +40,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Teaching AI to think a little more Swedish](https://swedenaifactory.se/client-stories/2026/10/teaching-ai-to-think-a-little-more-swedish/) - 09 Oct 2026
+
 [Preparing vocational students for an AI-driven future](https://swedenaifactory.se/news/2026/09/preparing-vocational-students-for-an-ai-driven-future/) - 30 Sep 2026
 
 [Sweden AI Factory connects AI development with Swedish cloud providers](https://swedenaifactory.se/news/2026/09/sweden-ai-factory-connects-ai-development-with-swedish-cloud-providers-2/) - 24 Sep 2026
@@ -43,8 +51,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Mimer AI Factory becomes Sweden AI Factory](https://swedenaifactory.se/news/2026/08/mimer-ai-factory-becomes-sweden-ai-factory/) - 21 Aug 2026
 
 [Putting privacy to the test with Syndata](https://swedenaifactory.se/client-stories/2026/08/putting-privacy-to-the-test/) - 11 Aug 2026
-
-[Mimer AI Factory at ISC 2026: Driving the conversation on AI Factories and HPC](https://swedenaifactory.se/blog/2026/07/mimer-at-isc-2026/) - 07 Jul 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
