@@ -40,6 +40,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Sweden AI Factory expands collaboration with NVIDIA](https://swedenaifactory.se/news/2026/10/sweden-ai-factory-expands-collaboration-with-nvidia/) - 15 Oct 2026
+
 [Teaching AI to think a little more Swedish](https://swedenaifactory.se/client-stories/2026/10/teaching-ai-to-think-a-little-more-swedish/) - 09 Oct 2026
 
 [Preparing vocational students for an AI-driven future](https://swedenaifactory.se/news/2026/09/preparing-vocational-students-for-an-ai-driven-future/) - 30 Sep 2026
@@ -49,8 +51,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [The marvelous guide of supercomputing and AI](https://swedenaifactory.se/blog/2026/08/the-marvelous-guide-of-supercomputing-and-ai/) - 28 Aug 2026
 
 [Mimer AI Factory becomes Sweden AI Factory](https://swedenaifactory.se/news/2026/08/mimer-ai-factory-becomes-sweden-ai-factory/) - 21 Aug 2026
-
-[Putting privacy to the test with Syndata](https://swedenaifactory.se/client-stories/2026/08/putting-privacy-to-the-test/) - 11 Aug 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
