@@ -40,6 +40,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Nordic AI Factory Summit 2026: a day of sovereign AI and shared ambition](https://swedenaifactory.se/blog/2026/10/nordic-ai-factory-summit-2026-a-day-of-sovereign-ai-and-shared-ambition/) - 19 Oct 2026
+
 [A great week for Sweden AI Factory – and for AI in Sweden](https://swedenaifactory.se/news/2026/10/a-great-week-for-sweden-ai-factory-and-for-ai-in-sweden/) - 16 Oct 2026
 
 [Sweden AI Factory expands collaboration with NVIDIA](https://swedenaifactory.se/news/2026/10/sweden-ai-factory-expands-collaboration-with-nvidia/) - 15 Oct 2026
@@ -49,8 +51,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Preparing vocational students for an AI-driven future](https://swedenaifactory.se/news/2026/09/preparing-vocational-students-for-an-ai-driven-future/) - 30 Sep 2026
 
 [Sweden AI Factory connects AI development with Swedish cloud providers](https://swedenaifactory.se/news/2026/09/sweden-ai-factory-connects-ai-development-with-swedish-cloud-providers-2/) - 24 Sep 2026
-
-[The marvelous guide of supercomputing and AI](https://swedenaifactory.se/blog/2026/08/the-marvelous-guide-of-supercomputing-and-ai/) - 28 Aug 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
