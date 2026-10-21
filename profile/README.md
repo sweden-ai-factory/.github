@@ -40,6 +40,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Sweden AI Factory Brings a Trustworthy AI Perspective to European Sovereignty Discussions](https://swedenaifactory.se/blog/2026/10/sweden-ai-factory-brings-a-trustworthy-ai-perspective-to-european-sovereignty-discussions/) - 20 Oct 2026
+
 [Nordic AI Factory Summit 2026: a day of sovereign AI and shared ambition](https://swedenaifactory.se/blog/2026/10/nordic-ai-factory-summit-2026-a-day-of-sovereign-ai-and-shared-ambition/) - 19 Oct 2026
 
 [A great week for Sweden AI Factory – and for AI in Sweden](https://swedenaifactory.se/news/2026/10/a-great-week-for-sweden-ai-factory-and-for-ai-in-sweden/) - 16 Oct 2026
@@ -49,8 +51,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Teaching AI to think a little more Swedish](https://swedenaifactory.se/client-stories/2026/10/teaching-ai-to-think-a-little-more-swedish/) - 09 Oct 2026
 
 [Preparing vocational students for an AI-driven future](https://swedenaifactory.se/news/2026/09/preparing-vocational-students-for-an-ai-driven-future/) - 30 Sep 2026
-
-[Sweden AI Factory connects AI development with Swedish cloud providers](https://swedenaifactory.se/news/2026/09/sweden-ai-factory-connects-ai-development-with-swedish-cloud-providers-2/) - 24 Sep 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
