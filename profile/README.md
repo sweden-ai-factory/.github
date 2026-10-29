@@ -40,6 +40,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[How Hiasynth is leveraging compute to build a synthetic Europe for market insight](https://swedenaifactory.se/client-stories/2026/10/how-hiasynth-is-leveraging-compute-to-build-a-synthetic-europe-for-market-insight/) - 28 Oct 2026
+
 [Reflections from the Sweden AI Factory for Life Science seminar](https://swedenaifactory.se/blog/2026/10/reflections-from-the-sweden-ai-factory-for-life-science-seminar/) - 22 Oct 2026
 
 [Sweden AI Factory brings a trustworthy AI perspective to European sovereignty discussions](https://swedenaifactory.se/blog/2026/10/sweden-ai-factory-brings-a-trustworthy-ai-perspective-to-european-sovereignty-discussions/) - 20 Oct 2026
@@ -49,8 +51,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [A great week for Sweden AI Factory – and for AI in Sweden](https://swedenaifactory.se/news/2026/10/a-great-week-for-sweden-ai-factory-and-for-ai-in-sweden/) - 16 Oct 2026
 
 [Sweden AI Factory expands collaboration with NVIDIA](https://swedenaifactory.se/news/2026/10/sweden-ai-factory-expands-collaboration-with-nvidia/) - 15 Oct 2026
-
-[Teaching AI to think a little more Swedish](https://swedenaifactory.se/client-stories/2026/10/teaching-ai-to-think-a-little-more-swedish/) - 09 Oct 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
