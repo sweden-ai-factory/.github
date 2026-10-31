@@ -1,8 +1,16 @@
 {
   "description": "Explainable AI for Life Science",
   "owner": "sweden-ai-factory",
-  "releases": [],
+  "releases": [
+    {
+      "author": "ashwinvis",
+      "published_at": "2026-10-30T15:24:13Z",
+      "published_day": "2026-10-30",
+      "release": "26.10",
+      "url": "https://github.com/sweden-ai-factory/xai-for-life-science/releases/tag/26.10"
+    }
+  ],
   "repo": "xai-for-life-science",
-  "total_releases": 0,
+  "total_releases": 1,
   "url": "https://github.com/sweden-ai-factory/xai-for-life-science"
 }

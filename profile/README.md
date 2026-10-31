@@ -23,6 +23,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+[xai-for-life-science 26.10](https://github.com/sweden-ai-factory/xai-for-life-science/releases/tag/26.10) - 2026-10-30
+
 [gen-ai-for-life-science 26.10](https://github.com/sweden-ai-factory/gen-ai-for-life-science/releases/tag/26.10) - 2026-10-08
 
 [handson-k8s-workshop 26.04](https://github.com/sweden-ai-factory/handson-k8s-workshop/releases/tag/26.04) - 2026-09-23
