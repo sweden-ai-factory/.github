@@ -42,6 +42,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[How Island ML is building a Nordic language model from the ground up](https://swedenaifactory.se/client-stories/2026/11/how-island-ml-is-building-a-nordic-language-model-from-the-ground-up/) - 13 Nov 2026
+
 [Giving African languages a voice in the age of AI](https://swedenaifactory.se/client-stories/2026/11/giving-african-languages-a-voice-in-the-age-of-ai/) - 10 Nov 2026
 
 [How Hiasynth is leveraging compute to build a synthetic Europe for market insight](https://swedenaifactory.se/client-stories/2026/10/how-hiasynth-is-leveraging-compute-to-build-a-synthetic-europe-for-market-insight/) - 28 Oct 2026
@@ -51,8 +53,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Sweden AI Factory brings a trustworthy AI perspective to European sovereignty discussions](https://swedenaifactory.se/blog/2026/10/sweden-ai-factory-brings-a-trustworthy-ai-perspective-to-european-sovereignty-discussions/) - 20 Oct 2026
 
 [Nordic AI Factory Summit 2026: a day of sovereign AI and shared ambition](https://swedenaifactory.se/blog/2026/10/nordic-ai-factory-summit-2026-a-day-of-sovereign-ai-and-shared-ambition/) - 19 Oct 2026
-
-[A great week for Sweden AI Factory – and for AI in Sweden](https://swedenaifactory.se/news/2026/10/a-great-week-for-sweden-ai-factory-and-for-ai-in-sweden/) - 16 Oct 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
