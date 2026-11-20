@@ -42,6 +42,10 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[A Week at the AI for Metascience Hackathon](https://swedenaifactory.se/blog/2026/11/a-week-at-the-ai-for-metascience-hackathon/) - 19 Nov 2026
+
+[Bringing scattered data together for safer roads](https://swedenaifactory.se/client-stories/2026/11/bringing-scattered-data-together-for-safer-roads/) - 19 Nov 2026
+
 [Sweden AI Factory-supported project wins HPCwire Readers’ Choice Award](https://swedenaifactory.se/news/2026/11/sweden-ai-factory-supported-project-wins-hpcwire-readers-choice-award/) - 17 Nov 2026
 
 [How Island ML is building a Nordic language model from the ground up](https://swedenaifactory.se/client-stories/2026/11/how-island-ml-is-building-a-nordic-language-model-from-the-ground-up/) - 13 Nov 2026
@@ -49,10 +53,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Giving African languages a voice in the age of AI](https://swedenaifactory.se/client-stories/2026/11/giving-african-languages-a-voice-in-the-age-of-ai/) - 10 Nov 2026
 
 [How Hiasynth is leveraging compute to build a synthetic Europe for market insight](https://swedenaifactory.se/client-stories/2026/10/how-hiasynth-is-leveraging-compute-to-build-a-synthetic-europe-for-market-insight/) - 28 Oct 2026
-
-[Reflections from the Sweden AI Factory for Life Science seminar](https://swedenaifactory.se/blog/2026/10/reflections-from-the-sweden-ai-factory-for-life-science-seminar/) - 22 Oct 2026
-
-[Sweden AI Factory brings a trustworthy AI perspective to European sovereignty discussions](https://swedenaifactory.se/blog/2026/10/sweden-ai-factory-brings-a-trustworthy-ai-perspective-to-european-sovereignty-discussions/) - 20 Oct 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
