@@ -42,6 +42,8 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 
 ### News & blog
 <!-- blog starts -->
+[Giving self-driving laboratories a platform to store, manage, and share their data](https://swedenaifactory.se/client-stories/2026/11/giving-self-driving-laboratories-a-platform-to-store-manage-and-share-their-data/) - 26 Nov 2026
+
 [Meet Boestad: Sweden AI Factory’s AI supercomputer](https://swedenaifactory.se/news/2026/11/meet-boestad-sweden-ai-factorys-ai-supercomputer/) - 25 Nov 2026
 
 [Security summary for EuroHPC supercomputers](https://swedenaifactory.se/blog/2026/11/security-summary-for-eurohpc-supercomputers/) - 24 Nov 2026
@@ -51,8 +53,6 @@ More [recent releases](https://github.com/sweden-ai-factory/.github/blob/main/re
 [Bringing scattered data together for safer roads](https://swedenaifactory.se/client-stories/2026/11/bringing-scattered-data-together-for-safer-roads/) - 19 Nov 2026
 
 [Sweden AI Factory-supported project wins HPCwire Readers’ Choice Award](https://swedenaifactory.se/news/2026/11/sweden-ai-factory-supported-project-wins-hpcwire-readers-choice-award/) - 17 Nov 2026
-
-[How Island ML is building a Nordic language model from the ground up](https://swedenaifactory.se/client-stories/2026/11/how-island-ml-is-building-a-nordic-language-model-from-the-ground-up/) - 13 Nov 2026
 <!-- blog ends -->
 [Read more](https://swedenaifactory.se/news-and-blog/)
 
